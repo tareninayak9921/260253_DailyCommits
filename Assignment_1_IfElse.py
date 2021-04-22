@@ -29,4 +29,4 @@ else:
         year += 1
     else:
        month += 1
-print("The next date is [dd-mm-yyyy] %d-%d-%d." % (day, month, year))
+print("The next  date is [dd-mm-yyyy] %d-%d-%d." % (day, month, year))
